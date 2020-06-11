@@ -16,7 +16,6 @@ function SEO({ description, lang, meta, keywords, title }) {
     }
   `);
 
-//dsafasf 
   const metaDescription = description || site.siteMetadata.description;
 
   return (
